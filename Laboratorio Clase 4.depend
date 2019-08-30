@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1567089470 source:c:\users\administrador\desktop\laboratorio clase 4\main.cpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+	<cstdio>
+	"ARTICULOS.h"
+	"FUNCIONES_2.h"
+	"PACIENTE.h"
+	"MEDICO.h"
+
+1567086820 c:\users\administrador\desktop\laboratorio clase 4\articulos.h
+	<iostream>
+	<cstdlib>
+	<clocale>
+
+1567086820 c:\users\administrador\desktop\laboratorio clase 4\funciones_2.h
+	<iostream>
+	<cstdlib>
+	<clocale>
+
+1567090171 c:\users\administrador\desktop\laboratorio clase 4\paciente.h
+	<iostream>
+	<cstdlib>
+	<clocale>
+
+1567086820 c:\users\administrador\desktop\laboratorio clase 4\medico.h
+	<iostream>
+	<cstdlib>
+	<clocale>
+
+1566979607 source:f:\no tocar\usuarios\alumno\escritorio\laboratorio clase 4\main.cpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+	<string.h>
+	<cstdio>
+	"ARTICULOS.h"
+	"FUNCIONES_2.h"
+	"PACIENTE.h"
+	"MEDICO.h"
+
+1566979606 f:\no tocar\usuarios\alumno\escritorio\laboratorio clase 4\articulos.h
+	<iostream>
+	<cstdlib>
+	<clocale>
+
+1567090617 f:\no tocar\usuarios\alumno\escritorio\laboratorio clase 4\funciones_2.h
+	<iostream>
+	<cstdlib>
+	<clocale>
+	<string>
+
+1566984704 f:\no tocar\usuarios\alumno\escritorio\laboratorio clase 4\paciente.h
+	<iostream>
+	<cstdlib>
+	<clocale>
+	<string.h>
+
+1566979607 f:\no tocar\usuarios\alumno\escritorio\laboratorio clase 4\medico.h
+	<iostream>
+	<cstdlib>
+	<clocale>
+	<string.h>
+
